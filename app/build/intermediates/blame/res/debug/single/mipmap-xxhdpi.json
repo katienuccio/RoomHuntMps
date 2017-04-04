@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/OLD RoomHunt/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/OLD RoomHunt/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/katherinenuccio/Documents/RoomHuntMps/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/katherinenuccio/Documents/RoomHuntMps/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/RoomHuntMps/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/RoomHuntMps/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

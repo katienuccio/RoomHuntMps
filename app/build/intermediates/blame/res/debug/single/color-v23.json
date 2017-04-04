@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/OLD RoomHunt/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/OLD RoomHunt/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/RoomHuntMps/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/RoomHuntMps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/katherinenuccio/Documents/RoomHuntMps/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/katherinenuccio/Documents/RoomHuntMps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

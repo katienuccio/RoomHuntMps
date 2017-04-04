@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/RoomHuntMps/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/RoomHuntMps/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/OLD RoomHunt/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/katienuccio/Documents/College/Senior/Spring Semester/COMP 585/OLD RoomHunt/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/katherinenuccio/Documents/RoomHuntMps/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/katherinenuccio/Documents/RoomHuntMps/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout-sw600dp/design_layout_snackbar.xml"
+    }
+]
