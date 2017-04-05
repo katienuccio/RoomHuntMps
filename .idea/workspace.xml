@@ -9,33 +9,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19057918-9b2f-4dc5-9356-7b89cbe67849" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/packageDebug/zip-cache/88trnhxxDXUY62_OwjEoYJ8_k18=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_72ec58b6eb3614578ea76062afa663591ee03184.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.0_01ba654876a5db390f14b1d37d37c53b6244eedb.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_8aaeac8e0323b0a09bab8c2c228a8fe9afe1a338.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.0_25abc45e71f92ea8b613f213b34863da5b4794fa.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/pre-dexed/debug/com.estimote-sdk-0.16.0_4c7472c84470780ad38b7ec8d9008aca80995bf1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/pre-dexed/debug/debug_8a76e3d7cf0229c540bec212318cebea20238c11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_540627432273f4a44d42936a4d53412023fc7c85.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_e6cd7863d8cfd394d1482a63063b99fe8bba8767.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/../OLD RoomHunt/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.idea/vcs.xml" />
+    <list default="true" id="19057918-9b2f-4dc5-9356-7b89cbe67849" name="Default" comment="working">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OLD RoomHunt/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/../OLD RoomHunt/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OLD RoomHunt/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/../OLD RoomHunt/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="RoomHuntMps.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,7 +41,98 @@
     <favorites_list name="RoomHuntMps" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="64" column="41" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeaconContentCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/BeaconContentCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeaconContentFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/BeaconContentFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EstimoteCloudBeaconDetails.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/EstimoteCloudBeaconDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EstimoteCloudBeaconDetailsFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/EstimoteCloudBeaconDetailsFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NearestBeaconManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/NearestBeaconManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-748">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProximityContentManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/ProximityContentManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeaconID.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/BeaconID.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/MyApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
@@ -1392,7 +1458,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="2981402199000" />
+        <entry key="$PROJECT_DIR$" value="4472055905000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1744,9 +1810,11 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/ProximityContentManager.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/MyApplication.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/NearestBeaconManager.java" />
+        <option value="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.estimote/sdk/0.16.0/jars/classes.jar!/com/estimote/sdk/repackaged/retrofit_v1_9_0/retrofit/RestAdapter.class" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/EstimoteCloudBeaconDetailsFactory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1789,6 +1857,10 @@
               <option name="myItemId" value="RoomHuntMps" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1800,6 +1872,60 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomHuntMps" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomHuntMps" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomHuntMps" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomHuntMps" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomHuntMps" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="estimote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -1808,8 +1934,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="19dc445d" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Junior/Spring Semester/COMP 590/AndroidStudioProjects/MapAndMusic" />
+    <property name="device.picker.selection" value="6dd585a2" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
     <property name="MemoryMonitor.minimized" value="true" />
     <property name="CpuMonitor.minimized" value="true" />
@@ -2180,6 +2306,14 @@
       <option name="presentableId" value="Default" />
       <updated>1490639418792</updated>
     </task>
+    <task id="LOCAL-00001" summary="working">
+      <created>1491267170965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491267170966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2192,7 +2326,7 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5029586" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41906202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.49704143" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32829046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2249,6 +2383,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working" />
+    <option name="LAST_COMMIT_MESSAGE" value="working" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -2271,20 +2409,131 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/EstimoteCloudBeaconDetails.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/EstimoteCloudBeaconDetailsFactory.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/BeaconContentFactory.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/EstimoteCloudBeaconDetails.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/EstimoteCloudBeaconDetailsFactory.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/NearestBeaconManager.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/ProximityContentManager.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/BeaconContentCache.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/BeaconID.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/MyApplication.java" />
     <entry file="file://$PROJECT_DIR$/RoomHuntMps.iml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/net/InetAddress.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="426" column="0" selection-start-line="426" selection-start-column="0" selection-end-line="426" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.estimote/sdk/0.16.0/jars/classes.jar!/com/estimote/sdk/repackaged/retrofit_v1_9_0/retrofit/RestAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="48" column="13" selection-start-line="546" selection-start-column="54" selection-end-line="546" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-23/android.jar!/java/net/InetAddress.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/MyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/BeaconContentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/BeaconContentCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/BeaconID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/ProximityContentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/EstimoteCloudBeaconDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/NearestBeaconManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/estimote/EstimoteCloudBeaconDetailsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/KatieNuccioGmailCom/RoomHuntMps/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="64" column="41" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

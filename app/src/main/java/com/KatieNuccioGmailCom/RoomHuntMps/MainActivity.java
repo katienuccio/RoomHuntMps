@@ -55,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
                 String text;
                 String text2;
                 Integer backgroundColor;
-                NearestBeaconManager nearestBeaconManager = new NearestBeaconManager(proximityContentManager.getContext(), proximityContentManager.getBeaconIDs());
                 if (content != null) {
                     EstimoteCloudBeaconDetails beaconDetails = (EstimoteCloudBeaconDetails) content;
                     text = "You're in " + beaconDetails.getBeaconName() + "'s range!";
@@ -63,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                     backgroundColor = BACKGROUND_COLORS.get(beaconDetails.getBeaconColor());
                 } else {
                     text = "No beacons in range.";
-                    text2 = "FUCK " + content;
+                    text2 = "" + content;
                     backgroundColor = null;
                 }
                 ((TextView) findViewById(R.id.textView)).setText(text);
